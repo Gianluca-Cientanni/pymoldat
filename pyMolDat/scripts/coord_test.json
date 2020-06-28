@@ -1,0 +1,36 @@
+{
+    "File origin": "/Users/gianluca/Desktop/project/example_molecules/",
+    "Error list": [
+        "There are too many coordinate files, see file origin above for file used.",
+        "Ambiguous unit in file.",
+        "There are too many coordinate files, see file origin above for file used.",
+        "There are too many coordinate files, see file origin above for file used.",
+        "There are too many coordinate files, see file origin above for file used."
+    ],
+    "Units": "Unknown",
+    "Coordinate Data": [
+        "    atomic_number label         x         y     z",
+        "0             1.0     H  -2.05032   1.27441   0.0",
+        "1             1.0     H  -2.14711  -1.20326   0.0",
+        "2             1.0     H   0.00000  -2.48756   0.0",
+        "3             1.0     H   2.14711  -1.20326   0.0",
+        "4             1.0     H   2.05032   1.27441   0.0",
+        "5             7.0     N   0.00000   1.38284   0.0",
+        "6             6.0     C  -1.13441   0.69045   0.0",
+        "7             6.0     C  -1.19051  -0.69580   0.0",
+        "8             6.0     C   0.00000  -1.40391   0.0",
+        "9             6.0     C   1.19051  -0.69580   0.0",
+        "10            6.0     C   1.13441   0.69045   0.0",
+        "11            1.0     H -12.05030  11.27440  10.0",
+        "12            1.0     H -12.14710 -11.20320  10.0",
+        "13            1.0     H  10.00000 -12.48750  10.0",
+        "14            1.0     H  12.14710 -11.20320  10.0",
+        "15            1.0     H  12.05030  11.27440  10.0",
+        "16            7.0     N  10.00000  11.38280  10.0",
+        "17            6.0     C -11.13440  10.69040  10.0",
+        "18            6.0     C -11.19050 -10.69580  10.0",
+        "19            6.0     C  10.00000 -11.40390  10.0",
+        "20            6.0     C  11.19050 -10.69580  10.0",
+        "21            6.0     C  11.13440  10.69080  10.0"
+    ]
+}
